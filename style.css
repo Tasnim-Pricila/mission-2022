@@ -1,0 +1,145 @@
+    body {
+        margin: 0;
+    }
+    
+    h1 {
+        font-size: 55px;
+        margin-bottom: 0px;
+    }
+    
+    h2 {
+        font-size: 45px;
+    }
+    
+    h3 {
+        font-size: 35px;
+        margin-bottom: 15px;
+        line-height: 1.5;
+    }
+    
+    h4 {
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .stay-focused {
+        display: flex;
+        margin-bottom: 50px;
+    }
+    
+    .text-area {
+        width: 60%;
+        padding-left: 10%;
+        padding-right: 20%;
+        padding-top: 6%;
+    }
+    
+    .image-area {
+        width: 80%;
+    }
+    
+    .image-area img {
+        width: 70%;
+    }
+    
+    .button-link {
+        text-decoration: none;
+        background-image: linear-gradient(to right, rgb(59, 58, 158), rgb(116, 116, 199));
+        color: rgb(250, 245, 245);
+        padding: 10px 30px;
+        border-radius: 8px;
+        font-weight: 700;
+        margin-top: 10px;
+        display: inline-block;
+    }
+    
+    .mission-2022 {
+        margin-bottom: 50px;
+    }
+    
+    .mission-2022 h2 {
+        text-align: center;
+    }
+    
+    .mission-area {
+        display: flex;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    
+    .mission-area img {
+        width: 35%;
+        padding-top: 30px;
+    }
+    
+    .mission-box {
+        background: rgba(144, 223, 223, 0.829);
+        border-radius: 20px;
+        margin-right: 20px;
+        padding-left: 25px;
+        padding-bottom: 30px;
+    }
+    
+    .my-mission {
+        background: rgba(144, 223, 223, 0.829);
+    }
+    
+    .my-vision {
+        background: rgba(144, 223, 223, 0.829);
+    }
+    
+    .my-goals {
+        background: rgba(144, 223, 223, 0.829);
+    }
+    
+    .develop-area {
+        display: flex;
+        padding-left: 10%;
+        padding-right: 10%;
+        background-image: url(images/shapes/shape-1.png);
+        background-repeat: no-repeat;
+        background-size: 20%;
+        background-position: 40px 40px;
+        margin-bottom: 50px;
+    }
+    
+    .global-community {
+        display: flex;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-bottom: 150px;
+        background-image: url(images/shapes/shape-1.png);
+        background-repeat: no-repeat;
+        background-size: 10%;
+        background-position: 90% 75%;
+    }
+    
+    .develop-image,
+    .global-image {
+        width: 40%;
+    }
+    
+    .develop-image img,
+    .global-image img {
+        width: 90%;
+    }
+    
+    .develop-text,
+    .global-text {
+        width: 60%;
+        padding-top: 4%;
+        padding-right: 5%;
+    }
+    
+    footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: rgba(0, 0, 0, 0.877);
+        color: white;
+        text-align: center;
+    }
+    
+    footer .span-color {
+        color: rgb(166, 255, 0);
+    }
